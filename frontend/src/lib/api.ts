@@ -237,7 +237,7 @@ function materialTotals(tree: CraftNode) {
 
 async function loadCatalog(): Promise<Catalog> {
   if (!catalogPromise) {
-    catalogPromise = fetch('/data/catalog.json', {
+    catalogPromise = fetch(`${import.meta.env.BASE_URL}data/catalog.json`, {
       headers: { Accept: 'application/json' },
     })
       .then(async (response) => {

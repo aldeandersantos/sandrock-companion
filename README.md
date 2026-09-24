@@ -87,6 +87,20 @@ nginx -t && nginx -s reload
 
 Se o Nginx da VPS estiver instalado diretamente no host, em vez de um container, mantenha o Compose normal e use `proxy_pass http://127.0.0.1:3011;` no bloco `location /`. Nesse caso, restrinja a porta `3011` no firewall se ela só deve ser acessível pelo proxy.
 
+## Hospedagem Apache em `/sandrock/`
+
+Para publicar em `public_html/sandrock`, gere a build com os caminhos dessa subpasta:
+
+```bash
+cd frontend
+npm ci
+npm run build:sandrock
+```
+
+Envie o **conteúdo** de `frontend/dist/` para `public_html/sandrock/`, de modo que `index.html` fique diretamente nessa pasta. Inclua o arquivo oculto `.htaccess`: ele permite abrir diretamente links como `/sandrock/items/item-11000005`. O build inclui o catálogo em `data/catalog.json`. Não envie o `.env`.
+
+Para publicar na raiz de um domínio, use `npm run build` e envie o conteúdo de `dist/` para a raiz desse domínio.
+
 ## Estrutura
 
 ```text
