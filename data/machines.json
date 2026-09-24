@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Relic Restoration Machine",
+    "slug": "machine-relic-restoration-machine",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Processor",
+    "slug": "machine-processor",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Civil Processor",
+    "slug": "machine-civil-processor",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Industrial Machine Tools",
+    "slug": "machine-industrial-machine-tools",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 3
+  },
+  {
+    "name": "Drying Rack",
+    "slug": "machine-drying-rack",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Fire Powered Generator",
+    "slug": "machine-fire-powered-generator",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Advanced Fire Powered Generator",
+    "slug": "machine-advanced-fire-powered-generator",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Dew Collector",
+    "slug": "machine-dew-collector",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Super Dew Collector",
+    "slug": "machine-super-dew-collector",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Apprentice Cooking Station",
+    "slug": "machine-apprentice-cooking-station",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Chef's Cooking Station",
+    "slug": "machine-chef-s-cooking-station",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Advanced Cooking Station",
+    "slug": "machine-advanced-cooking-station",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 3
+  },
+  {
+    "name": "Factory Control Panel",
+    "slug": "machine-factory-control-panel",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Greenhouse Console",
+    "slug": "machine-greenhouse-console",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Furnace",
+    "slug": "machine-furnace",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Civil Furnace",
+    "slug": "machine-civil-furnace",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Industrial Furnace",
+    "slug": "machine-industrial-furnace",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 3
+  },
+  {
+    "name": "Primary Jewelry Processing Machine",
+    "slug": "machine-primary-jewelry-processing-machine",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Intermediate Jewelry Processing Machine",
+    "slug": "machine-intermediate-jewelry-processing-machine",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Advanced Jewelry Processing Machine",
+    "slug": "machine-advanced-jewelry-processing-machine",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 3
+  },
+  {
+    "name": "Recycler",
+    "slug": "machine-recycler",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Civil Recycler",
+    "slug": "machine-civil-recycler",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Industrial Recycler",
+    "slug": "machine-industrial-recycler",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 3
+  },
+  {
+    "name": "Refiner",
+    "slug": "machine-refiner",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Grinder",
+    "slug": "machine-grinder",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Civil Grinder",
+    "slug": "machine-civil-grinder",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Industrial Grinding Table",
+    "slug": "machine-industrial-grinding-table",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 3
+  },
+  {
+    "name": "Ore Refinery",
+    "slug": "machine-ore-refinery",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Blender",
+    "slug": "machine-blender",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Worktable",
+    "slug": "machine-worktable",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Intermediate Worktable",
+    "slug": "machine-intermediate-worktable",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Advanced Worktable",
+    "slug": "machine-advanced-worktable",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 3
+  },
+  {
+    "name": "Tailoring Machine",
+    "slug": "machine-tailoring-machine",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Intermediate Tailoring Machine",
+    "slug": "machine-intermediate-tailoring-machine",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Advanced Tailoring Machine",
+    "slug": "machine-advanced-tailoring-machine",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 3
+  },
+  {
+    "name": "Intermediate Water Tank",
+    "slug": "machine-intermediate-water-tank",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Forging Machine",
+    "slug": "machine-forging-machine",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Intermediate Forging Machine",
+    "slug": "machine-intermediate-forging-machine",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 2
+  },
+  {
+    "name": "Advanced Forging Machine",
+    "slug": "machine-advanced-forging-machine",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 3
+  },
+  {
+    "name": "Cooking Station",
+    "slug": "machine-cooking-station",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  },
+  {
+    "name": "Assembly Station",
+    "slug": "machine-assembly-station",
+    "description": "Estação de criação registrada no catálogo comunitário.",
+    "level": 1
+  }
+]

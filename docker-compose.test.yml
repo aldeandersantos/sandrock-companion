@@ -1,0 +1,8 @@
+name: sandrock-companion-tests
+services:
+  frontend-test:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+      target: development
+    command: ["sh", "-c", "npm run catalog:build && npm run test && npm run lint && npm run build"]

@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Amirah",
+    "slug": "npc-amirah",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 11,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d6/Amirah-concept.png/revision/latest?cb=20250926001401"
+  },
+  {
+    "name": "Arvio",
+    "slug": "npc-arvio",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 6,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/62/Arvio-concept.png/revision/latest?cb=20250926001422"
+  },
+  {
+    "name": "Banjo",
+    "slug": "npc-banjo",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 13,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d7/Banjo-concept.png/revision/latest?cb=20250926000654"
+  },
+  {
+    "name": "Burgess",
+    "slug": "npc-burgess",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Spring",
+    "birthday_day": 20,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/f/f6/Burgess-concept.png/revision/latest?cb=20250926002249"
+  },
+  {
+    "name": "Captain",
+    "slug": "npc-captain",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 4,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/4/44/Captain-concept.png/revision/latest?cb=20250926000852"
+  },
+  {
+    "name": "Catori",
+    "slug": "npc-catori",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 16,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/3d/Catori-concept.png/revision/latest?cb=20250926001740"
+  },
+  {
+    "name": "CoCo",
+    "slug": "npc-coco",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Spring",
+    "birthday_day": 8,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/1f/CoCo-concept.png/revision/latest?cb=20250926000929"
+  },
+  {
+    "name": "Cooper",
+    "slug": "npc-cooper",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 22,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/73/Cooper-concept.png/revision/latest?cb=20250926001752"
+  },
+  {
+    "name": "Dan-bi",
+    "slug": "npc-dan-bi",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 2,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/0/0a/Dan-bi-concept.png/revision/latest?cb=20250926002306"
+  },
+  {
+    "name": "Elsie",
+    "slug": "npc-elsie",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Spring",
+    "birthday_day": 14,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d3/Elsie-concept.png/revision/latest?cb=20250926003821"
+  },
+  {
+    "name": "Ernest",
+    "slug": "npc-ernest",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Spring",
+    "birthday_day": 25,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/3f/Ernest-concept.png/revision/latest?cb=20250819203411"
+  },
+  {
+    "name": "Fang",
+    "slug": "npc-fang",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Winter",
+    "birthday_day": 22,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/85/Fang-concept.png/revision/latest?cb=20250819204002"
+  },
+  {
+    "name": "Fennec Fox",
+    "slug": "npc-fennec-fox",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Winter",
+    "birthday_day": 1,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/e/eb/Fennec_Fox-concept.png/revision/latest?cb=20250926001005"
+  },
+  {
+    "name": "Grace",
+    "slug": "npc-grace",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Spring",
+    "birthday_day": 17,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d5/Grace-concept.png/revision/latest?cb=20250925231055"
+  },
+  {
+    "name": "Heidi",
+    "slug": "npc-heidi",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 17,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/11/Heidi-concept.png/revision/latest?cb=20250926004414"
+  },
+  {
+    "name": "Hugo",
+    "slug": "npc-hugo",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 3,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/f/f0/Hugo-concept.png/revision/latest?cb=20250926004359"
+  },
+  {
+    "name": "Jane",
+    "slug": "npc-jane",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 14,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/54/Jane-concept.png/revision/latest?cb=20250926004537"
+  },
+  {
+    "name": "Jasmine",
+    "slug": "npc-jasmine",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Winter",
+    "birthday_day": 18,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/65/Jasmine-concept.png/revision/latest?cb=20250926004545"
+  },
+  {
+    "name": "Jensen",
+    "slug": "npc-jensen",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Winter",
+    "birthday_day": 15,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/50/Jensen-concept.png/revision/latest?cb=20250926004553"
+  },
+  {
+    "name": "Justice",
+    "slug": "npc-justice",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 16,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/55/Justice-concept.png/revision/latest?cb=20250926004601"
+  },
+  {
+    "name": "Krystal",
+    "slug": "npc-krystal",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 1,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/3/30/Krystal-concept.png/revision/latest?cb=20250926004652"
+  },
+  {
+    "name": "Logan",
+    "slug": "npc-logan",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 26,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/cd/Logan-concept.png/revision/latest?cb=20250926010051"
+  },
+  {
+    "name": "Mabel",
+    "slug": "npc-mabel",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Winter",
+    "birthday_day": 6,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/b/b0/Mabel-concept.png/revision/latest?cb=20250926000423"
+  },
+  {
+    "name": "Macchiato",
+    "slug": "npc-macchiato",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Winter",
+    "birthday_day": 24,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/71/Macchiato-concept.png/revision/latest?cb=20250926001028"
+  },
+  {
+    "name": "Matilda",
+    "slug": "npc-matilda",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 24,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/82/Matilda-concept.png/revision/latest?cb=20250926010552"
+  },
+  {
+    "name": "Meerkat",
+    "slug": "npc-meerkat",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 25,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/c7/Meerkat-concept.png/revision/latest?cb=20250925225215"
+  },
+  {
+    "name": "Mi-an",
+    "slug": "npc-mi-an",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 20,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/0/03/Mi-an-concept.png/revision/latest?cb=20250827035420"
+  },
+  {
+    "name": "Miguel",
+    "slug": "npc-miguel",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Winter",
+    "birthday_day": 9,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/8a/Miguel-concept.png/revision/latest?cb=20250926010629"
+  },
+  {
+    "name": "Mort",
+    "slug": "npc-mort",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 7,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/f/fe/Mort-concept.png/revision/latest?cb=20250926010949"
+  },
+  {
+    "name": "Nemo",
+    "slug": "npc-nemo",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 22,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/1/17/Nemo-concept.png/revision/latest?cb=20250926000520"
+  },
+  {
+    "name": "Nia",
+    "slug": "npc-nia",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 1,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/c9/Nia-concept.png/revision/latest?cb=20250926011725"
+  },
+  {
+    "name": "Owen",
+    "slug": "npc-owen",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Spring",
+    "birthday_day": 2,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/0/06/Owen-concept.png/revision/latest?cb=20250926012033"
+  },
+  {
+    "name": "Pablo",
+    "slug": "npc-pablo",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Spring",
+    "birthday_day": 22,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/7/78/Pablo-concept.png/revision/latest?cb=20250926012043"
+  },
+  {
+    "name": "Pebbles",
+    "slug": "npc-pebbles",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 9,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/82/Pebbles-concept.png/revision/latest?cb=20250926012052"
+  },
+  {
+    "name": "Pen",
+    "slug": "npc-pen",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 8,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/8/89/Pen-concept.png/revision/latest?cb=20250926012101"
+  },
+  {
+    "name": "Qi",
+    "slug": "npc-qi",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Spring",
+    "birthday_day": 11,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/f/f4/Qi-concept.png/revision/latest?cb=20250926012512"
+  },
+  {
+    "name": "Rian",
+    "slug": "npc-rian",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Summer",
+    "birthday_day": 19,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/df/Rian-concept.png/revision/latest?cb=20250926012527"
+  },
+  {
+    "name": "Rocky",
+    "slug": "npc-rocky",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Spring",
+    "birthday_day": 2,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/5/54/Rocky-concept.png/revision/latest?cb=20250926012538"
+  },
+  {
+    "name": "Sandy",
+    "slug": "npc-sandy",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 7,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/b/b9/Sandy-concept.png/revision/latest?cb=20250926001113"
+  },
+  {
+    "name": "Unsuur",
+    "slug": "npc-unsuur",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 4,
+    "romanceable": true,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/f/fc/Unsuur-concept.png/revision/latest?cb=20250925233330"
+  },
+  {
+    "name": "Vivi",
+    "slug": "npc-vivi",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Spring",
+    "birthday_day": 6,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/d/d4/Vivi-concept.png/revision/latest?cb=20250926012612"
+  },
+  {
+    "name": "Wei",
+    "slug": "npc-wei",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 14,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/c/c6/Wei-concept.png/revision/latest?cb=20250903214710"
+  },
+  {
+    "name": "X",
+    "slug": "npc-x",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Winter",
+    "birthday_day": 11,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/a/ab/X-concept.png/revision/latest?cb=20250926001049"
+  },
+  {
+    "name": "Yan",
+    "slug": "npc-yan",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Autumn",
+    "birthday_day": 14,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/6/64/Yan-concept.png/revision/latest?cb=20250926012624"
+  },
+  {
+    "name": "Zeke",
+    "slug": "npc-zeke",
+    "description": "Personagem registrado no catálogo comunitário.",
+    "birthday_season": "Winter",
+    "birthday_day": 26,
+    "romanceable": false,
+    "image_url": "https://static.wikia.nocookie.net/mytimeatsandrock/images/9/99/Zeke-concept.png/revision/latest?cb=20250926012633"
+  }
+]

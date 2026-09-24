@@ -1,0 +1,13 @@
+# Use only when the VPS Nginx runs in Docker and must reach this app by domain.
+# Set PROXY_NETWORK to the external network used by that Nginx container.
+services:
+  frontend:
+    networks:
+      proxy:
+        aliases:
+          - sandrock_companion
+
+networks:
+  proxy:
+    external: true
+    name: ${PROXY_NETWORK:?Define PROXY_NETWORK with the shared Nginx Docker network}

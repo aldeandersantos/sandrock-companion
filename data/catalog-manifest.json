@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "source": "https://mytimeatsandrock.fandom.com/wiki/Data:Items/csv",
+  "retrieved_at": "2026-09-24T00:27:44.263140+00:00",
+  "items": 3296,
+  "machines": 41,
+  "recipes": 628,
+  "npcs": 45,
+  "gifts": 4898,
+  "translation": "automatic-en-pt-review-needed",
+  "notes": [
+    "Dados factuais extraídos da wiki comunitária; não inclui a prosa da wiki.",
+    "A localização oficial do jogo deve substituir esta tradução automática quando disponível.",
+    "Receitas sem uma estação identificável ou ingredientes incompletos foram omitidas."
+  ],
+  "gift_source": "https://mytimeatsandrock.fandom.com/wiki/Gift_preferences",
+  "gift_collection": "rendered-character-pages",
+  "item_image_source": "Fandom file thumbnails",
+  "item_images": 2346,
+  "craft_source": "https://mytimeatsandrock.fandom.com/wiki/Module:Craft",
+  "craft_collection": "fandom-public-asset-modules",
+  "locations": 452,
+  "sources": 4079
+}

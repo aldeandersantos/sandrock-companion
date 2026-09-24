@@ -1,0 +1,2262 @@
+[
+  {
+    "name": "Game Center Shop",
+    "slug": "location-game-center-shop",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Grass is Greener",
+    "slug": "location-the-grass-is-greener",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Sandrock",
+    "slug": "location-sandrock",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Breach",
+    "slug": "location-the-breach",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Once More Into the Breach",
+    "slug": "location-once-more-into-the-breach",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Gecko Station Abandoned Ruins",
+    "slug": "location-gecko-station-abandoned-ruins",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Goodbye, Nia",
+    "slug": "location-goodbye-nia",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Shipwreck Ruins",
+    "slug": "location-shipwreck-ruins",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Into the Abyss",
+    "slug": "location-into-the-abyss",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mysterious Box",
+    "slug": "location-mysterious-box",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Sandrock Strikes Back",
+    "slug": "location-sandrock-strikes-back",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Northern Starship Ruins",
+    "slug": "location-northern-starship-ruins",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Starship Ruins Reservoir",
+    "slug": "location-starship-ruins-reservoir",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Diego",
+    "slug": "location-diego",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": ",",
+    "slug": "location-item",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Happiest Place in the Free Cities",
+    "slug": "location-the-happiest-place-in-the-free-cities",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Jewel of the Eufaula",
+    "slug": "location-the-jewel-of-the-eufaula",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Souvenir Shop",
+    "slug": "location-souvenir-shop",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Breach Hazardous Ruins",
+    "slug": "location-the-breach-hazardous-ruins",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Dead Sea Ruins",
+    "slug": "location-dead-sea-ruins",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Cave",
+    "slug": "location-cave",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Qi",
+    "slug": "location-qi",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Commerce Guild Store",
+    "slug": "location-commerce-guild-store",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Jane",
+    "slug": "location-jane",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Ceramic Gate",
+    "slug": "location-ceramic-gate",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Worktable",
+    "slug": "location-worktable",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The New Builder",
+    "slug": "location-the-new-builder",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Lab 7",
+    "slug": "location-lab-7",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Abandoned Mine",
+    "slug": "location-abandoned-mine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Grace",
+    "slug": "location-grace",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Wei",
+    "slug": "location-wei",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Yan",
+    "slug": "location-yan",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Forging Machine",
+    "slug": "location-forging-machine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Hammer Time",
+    "slug": "location-hammer-time",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Justice",
+    "slug": "location-justice",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Gecko Station",
+    "slug": "location-gecko-station",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Intermediate Worktable",
+    "slug": "location-intermediate-worktable",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Belly of the Beast",
+    "slug": "location-belly-of-the-beast",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Training Day",
+    "slug": "location-training-day",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mysterious Man",
+    "slug": "location-mysterious-man",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Logan",
+    "slug": "location-logan",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Caretaker",
+    "slug": "location-the-caretaker",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Geegler Security",
+    "slug": "location-geegler-security",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Andy",
+    "slug": "location-andy",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Geegler Manager",
+    "slug": "location-geegler-manager",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Move-o-tron 9000",
+    "slug": "location-move-o-tron-9000",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Geegler VP",
+    "slug": "location-geegler-vp",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Pen",
+    "slug": "location-pen",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Intermediate Forging Machine",
+    "slug": "location-intermediate-forging-machine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Geegler President",
+    "slug": "location-geegler-president",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Advanced Worktable",
+    "slug": "location-advanced-worktable",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Quest for the Panacea",
+    "slug": "location-the-quest-for-the-panacea",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Eufaula Salvage Abandoned Ruins",
+    "slug": "location-eufaula-salvage-abandoned-ruins",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Buckin",
+    "slug": "location-buckin",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Desert Cave",
+    "slug": "location-desert-cave",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Elsie",
+    "slug": "location-elsie",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Community Service",
+    "slug": "location-community-service",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Definitely Not a Ninja Sword",
+    "slug": "location-definitely-not-a-ninja-sword",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Advanced Forging Machine",
+    "slug": "location-advanced-forging-machine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Boutique Store",
+    "slug": "location-boutique-store",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Grinder",
+    "slug": "location-grinder",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Vending Machine",
+    "slug": "location-vending-machine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Civil Corps Store",
+    "slug": "location-civil-corps-store",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "In Trusses We Trust",
+    "slug": "location-in-trusses-we-trust",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Civil Grinder",
+    "slug": "location-civil-grinder",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Tailor Made",
+    "slug": "location-tailor-made",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Tailoring Machine",
+    "slug": "location-tailoring-machine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Show Must Go On",
+    "slug": "location-the-show-must-go-on",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Competition Store",
+    "slug": "location-competition-store",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1100098",
+    "slug": "location-mission-1100098",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Festival Store",
+    "slug": "location-festival-store",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1700218",
+    "slug": "location-mission-1700218",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Intermediate Tailoring Machine",
+    "slug": "location-intermediate-tailoring-machine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Advanced Tailoring Machine",
+    "slug": "location-advanced-tailoring-machine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Starship Enterprising",
+    "slug": "location-starship-enterprising",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Builder Cruise x Operation Flowergate",
+    "slug": "location-builder-cruise-x-operation-flowergate",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Sunrise",
+    "slug": "location-sunrise",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Vivi",
+    "slug": "location-vivi",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "First Day on the Job",
+    "slug": "location-first-day-on-the-job",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Paradise Walk",
+    "slug": "location-paradise-walk",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Moisture Farm Blues",
+    "slug": "location-moisture-farm-blues",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Owen",
+    "slug": "location-owen",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Shipwreck Confidential",
+    "slug": "location-shipwreck-confidential",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Arvio",
+    "slug": "location-arvio",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Heidi",
+    "slug": "location-heidi",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Pet Detective",
+    "slug": "location-pet-detective",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Nia",
+    "slug": "location-nia",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Clear the Air",
+    "slug": "location-clear-the-air",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Fall from Grace",
+    "slug": "location-fall-from-grace",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Wei Forward",
+    "slug": "location-the-wei-forward",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Burgess",
+    "slug": "location-burgess",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The North South Water Diversion Project",
+    "slug": "location-the-north-south-water-diversion-project",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Picking Up the Slack",
+    "slug": "location-picking-up-the-slack",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Recipe for Fun",
+    "slug": "location-recipe-for-fun",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Operation De-Geeglate",
+    "slug": "location-operation-de-geeglate",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "One Small Step for Sandrockers",
+    "slug": "location-one-small-step-for-sandrockers",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mystical Investigations",
+    "slug": "location-mystical-investigations",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "A Bridge Too Far",
+    "slug": "location-a-bridge-too-far",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "We",
+    "slug": "location-we",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Em",
+    "slug": "location-em",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mi-an",
+    "slug": "location-mi-an",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Pablo",
+    "slug": "location-pablo",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1200309",
+    "slug": "location-mission-1200309",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Catori",
+    "slug": "location-catori",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Eufaula Salvage Shop",
+    "slug": "location-eufaula-salvage-shop",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Blessing in Disguise",
+    "slug": "location-blessing-in-disguise",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Adventure in the Valley of Whispers",
+    "slug": "location-adventure-in-the-valley-of-whispers",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Who",
+    "slug": "location-who",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Made in the Shade",
+    "slug": "location-made-in-the-shade",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mint Condition",
+    "slug": "location-mint-condition",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Cooper",
+    "slug": "location-cooper",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Gungam Zeroed",
+    "slug": "location-gungam-zeroed",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Ain",
+    "slug": "location-ain",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Battle of Sandrock",
+    "slug": "location-the-battle-of-sandrock",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Just Give a Whistle",
+    "slug": "location-just-give-a-whistle",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Juiced Up",
+    "slug": "location-juiced-up",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Operation Greenland",
+    "slug": "location-operation-greenland",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Wanted!",
+    "slug": "location-wanted",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Get Con-yak-ted",
+    "slug": "location-get-con-yak-ted",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Ernest",
+    "slug": "location-ernest",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Diners on the Storm",
+    "slug": "location-diners-on-the-storm",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "This is Not a Drill",
+    "slug": "location-this-is-not-a-drill",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "What",
+    "slug": "location-what",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Another One Rides the Bus",
+    "slug": "location-another-one-rides-the-bus",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Intermediate Jewelry Processing Machine",
+    "slug": "location-intermediate-jewelry-processing-machine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Haru",
+    "slug": "location-haru",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Rocky",
+    "slug": "location-rocky",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Jasmine",
+    "slug": "location-jasmine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Primary Jewelry Processing Machine",
+    "slug": "location-primary-jewelry-processing-machine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Amirah",
+    "slug": "location-amirah",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Desert Viper",
+    "slug": "location-desert-viper",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Unsuur",
+    "slug": "location-unsuur",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Flaming Saddles",
+    "slug": "location-flaming-saddles",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mecha-tilda",
+    "slug": "location-mecha-tilda",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Words to Betray the Heart",
+    "slug": "location-words-to-betray-the-heart",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Fang",
+    "slug": "location-fang",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Welcome to Sandrock!",
+    "slug": "location-welcome-to-sandrock",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Childhood Friend",
+    "slug": "location-the-childhood-friend",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Farmin",
+    "slug": "location-farmin",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission Unpossible",
+    "slug": "location-mission-unpossible",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Advanced Jewelry Processing Machine",
+    "slug": "location-advanced-jewelry-processing-machine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Trudy",
+    "slug": "location-trudy",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mabel",
+    "slug": "location-mabel",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Missing Leak",
+    "slug": "location-the-missing-leak",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Assembly Station",
+    "slug": "location-assembly-station",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Intermediate Assembly Station",
+    "slug": "location-intermediate-assembly-station",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Advanced Assembly Station",
+    "slug": "location-advanced-assembly-station",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Venti",
+    "slug": "location-venti",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Construction Junction Shop",
+    "slug": "location-construction-junction-shop",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Appetite for Construction",
+    "slug": "location-appetite-for-construction",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Breakthrough New Goo",
+    "slug": "location-breakthrough-new-goo",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1100031",
+    "slug": "location-mission-1100031",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Trial by Kiln",
+    "slug": "location-trial-by-kiln",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "First Impressions",
+    "slug": "location-first-impressions",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "By The Stairs",
+    "slug": "location-by-the-stairs",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Rian",
+    "slug": "location-rian",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Opportunities Abound",
+    "slug": "location-opportunities-abound",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Quack out of Heck",
+    "slug": "location-quack-out-of-heck",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "New Coat of Paint",
+    "slug": "location-new-coat-of-paint",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1700199",
+    "slug": "location-mission-1700199",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "A Fake Friend",
+    "slug": "location-a-fake-friend",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Keep on Rockin",
+    "slug": "location-keep-on-rockin",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Drying Rack",
+    "slug": "location-drying-rack",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Public Image",
+    "slug": "location-public-image",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Chef",
+    "slug": "location-chef",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "On the House",
+    "slug": "location-on-the-house",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Blender",
+    "slug": "location-blender",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Apprentice Cooking Station",
+    "slug": "location-apprentice-cooking-station",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Weary Wilds",
+    "slug": "location-the-weary-wilds",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Sandy",
+    "slug": "location-sandy",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Miguel",
+    "slug": "location-miguel",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Wild Yakmel",
+    "slug": "location-wild-yakmel",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Yakmel",
+    "slug": "location-yakmel",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Enraged Wild Yakmel",
+    "slug": "location-enraged-wild-yakmel",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Wild Alpha Yakmel",
+    "slug": "location-wild-alpha-yakmel",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Wandering Y Store",
+    "slug": "location-wandering-y-store",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Practice What You Preach",
+    "slug": "location-practice-what-you-preach",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1500379",
+    "slug": "location-mission-1500379",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Runner-Up",
+    "slug": "location-runner-up",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Tea Party",
+    "slug": "location-tea-party",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Quali-tea over Quanti-tea",
+    "slug": "location-quali-tea-over-quanti-tea",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Assistant",
+    "slug": "location-the-assistant",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Squeeze the Day",
+    "slug": "location-squeeze-the-day",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Blue Moon To-Go",
+    "slug": "location-blue-moon-to-go",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Yeast You Could Do",
+    "slug": "location-the-yeast-you-could-do",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Krystal",
+    "slug": "location-krystal",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "World of Sandfishing",
+    "slug": "location-world-of-sandfishing",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Bring a Smile",
+    "slug": "location-bring-a-smile",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1100004",
+    "slug": "location-mission-1100004",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1100066",
+    "slug": "location-mission-1100066",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Desks They are A",
+    "slug": "location-the-desks-they-are-a",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "female spouses",
+    "slug": "location-female-spouses",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Blue Moon Saloon",
+    "slug": "location-blue-moon-saloon",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Advanced Cooking Station",
+    "slug": "location-advanced-cooking-station",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Hugo",
+    "slug": "location-hugo",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "all spouses",
+    "slug": "location-all-spouses",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Jensen",
+    "slug": "location-jensen",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Old Familiar Face",
+    "slug": "location-old-familiar-face",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Cornered Beasts",
+    "slug": "location-cornered-beasts",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1800313",
+    "slug": "location-mission-1800313",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "male spouses",
+    "slug": "location-male-spouses",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Keeping up with the Yakmels",
+    "slug": "location-keeping-up-with-the-yakmels",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Zeke",
+    "slug": "location-zeke",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mort",
+    "slug": "location-mort",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Dan-bi",
+    "slug": "location-dan-bi",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Leaving the Nest",
+    "slug": "location-leaving-the-nest",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "A Moving Story",
+    "slug": "location-a-moving-story",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Fragrant Memories",
+    "slug": "location-fragrant-memories",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Fang and X Clinic",
+    "slug": "location-fang-and-x-clinic",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Relapse",
+    "slug": "location-relapse",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "One Flew Over the Bandit Nest",
+    "slug": "location-one-flew-over-the-bandit-nest",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Greeno Factory",
+    "slug": "location-greeno-factory",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mole Cave Abandoned Ruins",
+    "slug": "location-mole-cave-abandoned-ruins",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Starship Abandoned Ruins",
+    "slug": "location-starship-abandoned-ruins",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Macchiato",
+    "slug": "location-macchiato",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1200108",
+    "slug": "location-mission-1200108",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1200280",
+    "slug": "location-mission-1200280",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1800399",
+    "slug": "location-mission-1800399",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Take a Guess",
+    "slug": "location-take-a-guess",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1200072",
+    "slug": "location-mission-1200072",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1810001",
+    "slug": "location-mission-1810001",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1810002",
+    "slug": "location-mission-1810002",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1810003",
+    "slug": "location-mission-1810003",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1810004",
+    "slug": "location-mission-1810004",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1810005",
+    "slug": "location-mission-1810005",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Rocket Rooster",
+    "slug": "location-rocket-rooster",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Frightened Rocket Rooster",
+    "slug": "location-frightened-rocket-rooster",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Cock-a-doodle-Doom",
+    "slug": "location-cock-a-doodle-doom",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Eagles in the Oasis",
+    "slug": "location-eagles-in-the-oasis",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1200256",
+    "slug": "location-mission-1200256",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Collateral Damage",
+    "slug": "location-collateral-damage",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Relic Restoration Machine",
+    "slug": "location-relic-restoration-machine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Sandapalooza",
+    "slug": "location-sandapalooza",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "A Green Wall",
+    "slug": "location-a-green-wall",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Water from Portia",
+    "slug": "location-water-from-portia",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Sandrock is Green Again",
+    "slug": "location-sandrock-is-green-again",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Hot Honey BBQ Bumble Ant",
+    "slug": "location-hot-honey-bbq-bumble-ant",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1200075",
+    "slug": "location-mission-1200075",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Farm Store",
+    "slug": "location-farm-store",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Gone with the Wind",
+    "slug": "location-gone-with-the-wind",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Tuckered Out!",
+    "slug": "location-tuckered-out",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Dive Buzzard",
+    "slug": "location-dive-buzzard",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Matilda",
+    "slug": "location-matilda",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mi-ni Botanica",
+    "slug": "location-mi-ni-botanica",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1800349",
+    "slug": "location-mission-1800349",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Water World",
+    "slug": "location-water-world",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1600156",
+    "slug": "location-mission-1600156",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Doomshroom",
+    "slug": "location-doomshroom",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1600159",
+    "slug": "location-mission-1600159",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Tread Upon Me",
+    "slug": "location-tread-upon-me",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1200077",
+    "slug": "location-mission-1200077",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Operation: Flowergate",
+    "slug": "location-operation-flowergate",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "X",
+    "slug": "location-x",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Flowers and Weeds",
+    "slug": "location-flowers-and-weeds",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "ARCS of the Covenant",
+    "slug": "location-arcs-of-the-covenant",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1600157",
+    "slug": "location-mission-1600157",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "I Guess I Cook Now For Some Reason",
+    "slug": "location-i-guess-i-cook-now-for-some-reason",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Wiggle Room",
+    "slug": "location-wiggle-room",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Where",
+    "slug": "location-where",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Watching Paint Dry",
+    "slug": "location-watching-paint-dry",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Becoming Official",
+    "slug": "location-becoming-official",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Furnace",
+    "slug": "location-furnace",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Furniture Chest",
+    "slug": "location-furniture-chest",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Fightin",
+    "slug": "location-fightin",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Round the World",
+    "slug": "location-round-the-world",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Over the Moon",
+    "slug": "location-over-the-moon",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "How to Tune your Banjo",
+    "slug": "location-how-to-tune-your-banjo",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Product Recall",
+    "slug": "location-product-recall",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The New Mascot",
+    "slug": "location-the-new-mascot",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Writer",
+    "slug": "location-writer",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "New Teacher",
+    "slug": "location-new-teacher",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Rolling Sixes",
+    "slug": "location-rolling-sixes",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Sandrock Storage",
+    "slug": "location-sandrock-storage",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Portia Tunnel",
+    "slug": "location-portia-tunnel",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1800259",
+    "slug": "location-mission-1800259",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Chasing Elsie",
+    "slug": "location-chasing-elsie",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Simply the Best",
+    "slug": "location-simply-the-best",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1200261",
+    "slug": "location-mission-1200261",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Eufaula Salvage",
+    "slug": "location-eufaula-salvage",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Sweeper",
+    "slug": "location-sweeper",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Trotter",
+    "slug": "location-trotter",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Disgruntled Secretary",
+    "slug": "location-disgruntled-secretary",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Damaged Hauler",
+    "slug": "location-damaged-hauler",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Hauler",
+    "slug": "location-hauler",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Damaged Sweeper",
+    "slug": "location-damaged-sweeper",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Hercules 2000",
+    "slug": "location-hercules-2000",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Disgruntled Clean-o-bot",
+    "slug": "location-disgruntled-clean-o-bot",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Maintain-o-bot",
+    "slug": "location-maintain-o-bot",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Bomble-dee",
+    "slug": "location-bomble-dee",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Bomble-dum",
+    "slug": "location-bomble-dum",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Stone",
+    "slug": "location-stone",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Marble",
+    "slug": "location-marble",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Copper Ore",
+    "slug": "location-copper-ore",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Tin Ore",
+    "slug": "location-tin-ore",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Iron Ore",
+    "slug": "location-iron-ore",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Aluminum Ore",
+    "slug": "location-aluminum-ore",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Titanium Ore",
+    "slug": "location-titanium-ore",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Zinc Ore",
+    "slug": "location-zinc-ore",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Quartz",
+    "slug": "location-quartz",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Granite",
+    "slug": "location-granite",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Broken Power Stone",
+    "slug": "location-broken-power-stone",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Thorny Jumper",
+    "slug": "location-thorny-jumper",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Geegler Associate",
+    "slug": "location-geegler-associate",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Bird Nest",
+    "slug": "location-bird-nest",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Geegler PR Officer",
+    "slug": "location-geegler-pr-officer",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Processor",
+    "slug": "location-processor",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Boxing Jacks",
+    "slug": "location-boxing-jacks",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Geegler VP Gary",
+    "slug": "location-geegler-vp-gary",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Industrial Machine Tools",
+    "slug": "location-industrial-machine-tools",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Tree for All",
+    "slug": "location-tree-for-all",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Rockyenaroll",
+    "slug": "location-rockyenaroll",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Pensky",
+    "slug": "location-pensky",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mole Mine Order Station",
+    "slug": "location-mole-mine-order-station",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mega Tunnel Worm",
+    "slug": "location-mega-tunnel-worm",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Supa Hot Hermicrab",
+    "slug": "location-supa-hot-hermicrab",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Desert Hopper",
+    "slug": "location-desert-hopper",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Bellwing Siren",
+    "slug": "location-bellwing-siren",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Fennec Fox",
+    "slug": "location-fennec-fox",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Scrooge McMole",
+    "slug": "location-scrooge-mcmole",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Rat Queen",
+    "slug": "location-rat-queen",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Sandrocker Dream",
+    "slug": "location-the-sandrocker-dream",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "SuperStarby",
+    "slug": "location-superstarby",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Starby-on-a-Horse",
+    "slug": "location-starby-on-a-horse",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Alpha Rockyenaroll",
+    "slug": "location-alpha-rockyenaroll",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Civil Furnace",
+    "slug": "location-civil-furnace",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Protector",
+    "slug": "location-the-protector",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Control Cat",
+    "slug": "location-control-cat",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Birthday Blues",
+    "slug": "location-birthday-blues",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Advanced Toolbox",
+    "slug": "location-advanced-toolbox",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Industrial Furnace",
+    "slug": "location-industrial-furnace",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Builder Cruise",
+    "slug": "location-builder-cruise",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Civil Processor",
+    "slug": "location-civil-processor",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Shipwreck Hazardous Ruins",
+    "slug": "location-shipwreck-hazardous-ruins",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Tripion",
+    "slug": "location-tripion",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Punished Tripion",
+    "slug": "location-punished-tripion",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Masked Fiend",
+    "slug": "location-masked-fiend",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Plierimp",
+    "slug": "location-plierimp",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Contaminated Plierimp",
+    "slug": "location-contaminated-plierimp",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Rangerat",
+    "slug": "location-rangerat",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Communications Officer",
+    "slug": "location-communications-officer",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Duvos Soldier",
+    "slug": "location-duvos-soldier",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Commander Lefu",
+    "slug": "location-commander-lefu",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Guardian of Syn",
+    "slug": "location-guardian-of-syn",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Syn Praetorian",
+    "slug": "location-syn-praetorian",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Magic Mirror",
+    "slug": "location-the-magic-mirror",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Starship Hazardous Ruins",
+    "slug": "location-starship-hazardous-ruins",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Utility Bot",
+    "slug": "location-utility-bot",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Lifter-bot 700",
+    "slug": "location-lifter-bot-700",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Gary",
+    "slug": "location-gary",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Industrial Grinding Table",
+    "slug": "location-industrial-grinding-table",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Relic Bag",
+    "slug": "location-relic-bag",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Expert Toolbox",
+    "slug": "location-expert-toolbox",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "All-in-one Toolbox",
+    "slug": "location-all-in-one-toolbox",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mint",
+    "slug": "location-mint",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Basic Toolbox",
+    "slug": "location-basic-toolbox",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Pebbles",
+    "slug": "location-pebbles",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1100002",
+    "slug": "location-mission-1100002",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "A Piece of the Past",
+    "slug": "location-a-piece-of-the-past",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Construction Junction",
+    "slug": "location-construction-junction",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Nemo",
+    "slug": "location-nemo",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Iron Chef Free Cities",
+    "slug": "location-iron-chef-free-cities",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Salted Fish Blues",
+    "slug": "location-salted-fish-blues",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1800372",
+    "slug": "location-mission-1800372",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Captain",
+    "slug": "location-captain",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Redrat",
+    "slug": "location-redrat",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Backerat",
+    "slug": "location-backerat",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Leak and Destroy",
+    "slug": "location-leak-and-destroy",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Bumble Ant",
+    "slug": "location-bumble-ant",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Spoiled Honey Bumble Ant",
+    "slug": "location-spoiled-honey-bumble-ant",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Meerkat",
+    "slug": "location-meerkat",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1600143",
+    "slug": "location-mission-1600143",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Starby",
+    "slug": "location-starby",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Sandpony",
+    "slug": "location-sandpony",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Geegler Intern",
+    "slug": "location-geegler-intern",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Another Night Out",
+    "slug": "location-another-night-out",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "CoCo",
+    "slug": "location-coco",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1600160",
+    "slug": "location-mission-1600160",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1200039",
+    "slug": "location-mission-1200039",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Banjo",
+    "slug": "location-banjo",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1200128",
+    "slug": "location-mission-1200128",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Heritage of Sandrock",
+    "slug": "location-heritage-of-sandrock",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Some Picnics Are No Picnic",
+    "slug": "location-some-picnics-are-no-picnic",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Six Star Commission",
+    "slug": "location-the-six-star-commission",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Paradise Lost and Found",
+    "slug": "location-paradise-lost-and-found",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Classic Projection",
+    "slug": "location-classic-projection",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Delivery Trainee",
+    "slug": "location-delivery-trainee",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Delivery Expert",
+    "slug": "location-delivery-expert",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Delivery Master",
+    "slug": "location-delivery-master",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Taste of Your Own Medicine",
+    "slug": "location-taste-of-your-own-medicine",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Saving Private Raven",
+    "slug": "location-saving-private-raven",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Civil Business",
+    "slug": "location-civil-business",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Cheery Conspiracy",
+    "slug": "location-cheery-conspiracy",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Away from It All",
+    "slug": "location-away-from-it-all",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Freshmaker",
+    "slug": "location-the-freshmaker",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Trouble in Paradise",
+    "slug": "location-trouble-in-paradise",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Goat",
+    "slug": "location-the-goat",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "A Grand Idea",
+    "slug": "location-a-grand-idea",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Give me a Sign",
+    "slug": "location-give-me-a-sign",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Bounce Back",
+    "slug": "location-bounce-back",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Crush",
+    "slug": "location-crush",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Duvos Attacks!",
+    "slug": "location-duvos-attacks",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Graceful Farewell",
+    "slug": "location-graceful-farewell",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "When the Dust Settles",
+    "slug": "location-when-the-dust-settles",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Unwanted Posters",
+    "slug": "location-unwanted-posters",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Let",
+    "slug": "location-let",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Brain Food",
+    "slug": "location-brain-food",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "In Bloom",
+    "slug": "location-in-bloom",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Big Story on Little Stage",
+    "slug": "location-big-story-on-little-stage",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Mama Tree",
+    "slug": "location-the-mama-tree",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "A New Guitar",
+    "slug": "location-a-new-guitar",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Makings of a Park",
+    "slug": "location-the-makings-of-a-park",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "A Family Reunited",
+    "slug": "location-a-family-reunited",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "I am Gungam!",
+    "slug": "location-i-am-gungam",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mister Minister",
+    "slug": "location-mister-minister",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Model Free Cities",
+    "slug": "location-model-free-cities",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Heartbreak Drama",
+    "slug": "location-heartbreak-drama",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Alo",
+    "slug": "location-alo",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Luna",
+    "slug": "location-luna",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Girl with the Umbrella",
+    "slug": "location-the-girl-with-the-umbrella",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Hard Pill to Swallow",
+    "slug": "location-hard-pill-to-swallow",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Porcelain Art",
+    "slug": "location-porcelain-art",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Becoming Deputy",
+    "slug": "location-becoming-deputy",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Civil Corps Award Ceremony",
+    "slug": "location-civil-corps-award-ceremony",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Recipe for Love",
+    "slug": "location-recipe-for-love",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Getting Off the Runway",
+    "slug": "location-getting-off-the-runway",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission 1200201",
+    "slug": "location-mission-1200201",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Gift of the Bright Sun",
+    "slug": "location-gift-of-the-bright-sun",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Who is Supergal?",
+    "slug": "location-who-is-supergal",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Pitching In",
+    "slug": "location-pitching-in",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Instant Karma",
+    "slug": "location-instant-karma",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Gift of Water",
+    "slug": "location-the-gift-of-water",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "City Hall",
+    "slug": "location-city-hall",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Commerce Guild",
+    "slug": "location-commerce-guild",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Northern Spaceship Ruins",
+    "slug": "location-northern-spaceship-ruins",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Mission",
+    "slug": "location-mission",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Workshop Ranking",
+    "slug": "location-workshop-ranking",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Monsters",
+    "slug": "location-monsters",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Treasure Chest",
+    "slug": "location-treasure-chest",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Museum Reward",
+    "slug": "location-museum-reward",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "0",
+    "slug": "location-0",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Chef's Cooking Station",
+    "slug": "location-chef-s-cooking-station",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Planting",
+    "slug": "location-planting",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Log",
+    "slug": "location-log",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "The Dead Sea",
+    "slug": "location-the-dead-sea",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Showdown at High Noon",
+    "slug": "location-showdown-at-high-noon",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Recycler",
+    "slug": "location-recycler",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Kick",
+    "slug": "location-kick",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Gather",
+    "slug": "location-gather",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Junk Pile",
+    "slug": "location-junk-pile",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Eufaula Salvage Co.",
+    "slug": "location-eufaula-salvage-co",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Fishing Spots",
+    "slug": "location-fishing-spots",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  },
+  {
+    "name": "Industrial Recycler",
+    "slug": "location-industrial-recycler",
+    "description": "Local ou fonte registrado no catálogo comunitário."
+  }
+]
